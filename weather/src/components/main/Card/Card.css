@@ -1,0 +1,32 @@
+/* #Card {
+    background-color:rgba(168, 168, 168, 0.349);
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 29%;
+    bottom: 0;
+    box-shadow: 20px 20px 10px grey;
+    box-shadow: 0 4px 50px 0 grey, 0 6px 20px 0 grey;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#Tempdiv {
+    position: relative;
+    margin-right: 360px;
+    margin-top: 40px;
+}
+#h1, #typeDeg {
+    font-size: 55px;
+}
+
+
+#icon{
+    float: right;
+    position: relative;
+    right: 15%;
+    top: -35%;
+}
+
+#first {
+    display: inline;
+} */

@@ -1,0 +1,20 @@
+/*Nav.js*/
+nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  background: linear-gradient(to left, #ffdf3f, #ffb600);
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 60px;
+  list-style-type: none;
+}
+/*Nav.js End*/
+
+
